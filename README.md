@@ -1,3 +1,4 @@
+<img width="4872" height="2656" alt="CBA" src="https://github.com/user-attachments/assets/192f1038-25fb-45d4-8b0f-f2d867624e1d" />
 
 # 📊 Customer Behavior Data Analyst
 
