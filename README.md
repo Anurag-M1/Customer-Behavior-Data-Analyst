@@ -1,7 +1,7 @@
 
-# 📊 Customer Behavior Data Analyst Portfolio Project
+# 📊 Customer Behavior Data Analyst
 
-A complete end-to-end **Data Analytics portfolio project** that analyzes customer purchasing behavior using **Python, SQL, and Power BI**.  
+A complete end-to-end **Data Analytics project** that analyzes customer purchasing behavior using **Python, SQL, and Power BI**.  
 This project simulates a real-world business environment and demonstrates how raw data can be transformed into actionable business insights.
 
 ---
