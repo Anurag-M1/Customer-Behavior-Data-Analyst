@@ -1,9 +1,9 @@
-<img width="4872" height="2656" alt="CBA" src="https://github.com/user-attachments/assets/192f1038-25fb-45d4-8b0f-f2d867624e1d" />
-
 # 📊 Customer Behavior Data Analyst
 
 A complete end-to-end **Data Analytics project** that analyzes customer purchasing behavior using **Python, SQL, and Power BI**.  
 This project simulates a real-world business environment and demonstrates how raw data can be transformed into actionable business insights.
+
+<img width="4872" height="2656" alt="CBA" src="https://github.com/user-attachments/assets/192f1038-25fb-45d4-8b0f-f2d867624e1d" />
 
 ---
 
